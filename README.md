@@ -1,3 +1,9 @@
+# Daniel Pfurtscheller
+
+Researcher at the University of Innsbruck.
+
+Sometimes I build tools to solve my own problems and share them here. Right now I’m exploring how AI is changing the way we develop research software.
+
 ## Research tools
 
 Experimental browser-based software for visual research.
